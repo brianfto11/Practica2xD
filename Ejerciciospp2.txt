@@ -1,0 +1,8 @@
+-Conversor a pulgadas
+-Pitagoras
+-Palindromo
+-Capitalizador
+-Capicua
+-M.C.D
+-M.C.M
+-Cifrado Cesar
